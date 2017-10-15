@@ -10,4 +10,4 @@
 <p>Week 12 - Make each player profile</p>
 <p>Week 13 - Make statistics page of team and player</p>
 <p>Week 14 - Do some tests and first version of app</p>
-<p>Week 15 - Fix bugs and errors, make app icon</p>
+<p>Week 15 - Fix bugs and errors</p>
